@@ -1,0 +1,5 @@
+/* 1.075 */
+- Reduced font-size of website title on small/mobile screens
+- Created nav fallback prompting users to set a title
+- Updated screenshot
+- Minor translation bugs
